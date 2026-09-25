@@ -1,0 +1,3 @@
+# sew:bit
+## Una placa de expansión de código abierto que amplía las posibilidades del micro:bit para la informática textil y los dispositivos wearables en la educación primaria (K-6)
+Sew:bit es una placa de expansión de código abierto para el BBC micro:bit, diseñada en el marco de un Fab Lab para facilitar la creación de dispositivos wearables y textiles electrónicos en la educación primaria (de infantil a 6.º de primaria). 

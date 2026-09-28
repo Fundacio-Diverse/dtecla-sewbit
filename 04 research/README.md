@@ -1,0 +1,2 @@
+Papers:
+FAB 26 @Boston - Leirado, J., Domínguez, X., & Fuentemilla, S. (2026, July 31). Sew:bit: An Open-Source Expansion Board Extending the micro:bit for E-Textile and Wearable Computing in K-6 Education. Fab 26 "Reimagine the Future" Research Papers (FAB26), Cambridge, MA, USA. https://doi.org/10.5281/zenodo.21712564
